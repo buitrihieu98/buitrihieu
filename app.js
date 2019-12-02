@@ -1,4 +1,4 @@
-var express = require('express');
+﻿var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
@@ -16,7 +16,7 @@ var swaggerDefinition = {
     version: '1.0.0',
     description: 'Demonstrating how to use DiemDanh API with your application',
   },
-  host: 'https://tpltesting.herokuapp.com',
+  host: 'https://buitrihieu.herokuapp.com',
   basePath: '/',
 };
 
